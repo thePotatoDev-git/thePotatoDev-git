@@ -1,3 +1,5 @@
+<div align="center"><img src="https://i.imgur.com/WMoA3Vg.png" alt="The Potato Dev's GitHub" align="center"></div>
+
 ### Hi there, I'm Albert! Welcome to my GitHub. 👋
 
 <!--
@@ -10,5 +12,5 @@ Here are some ideas to get you started: -->
 - 👓 I’m currently focused on becoming a fullstack web developer.
 - 🤔 Check out my portfolio at ([thePotatoDev.netlify.app](https://thepotatodev.netlify.app/))
 - 📫 How to reach me: albertus.chua@gmail.com
-- ⚡ Fun fact: I love potato chips. Want some potato chip flavor suggestions, or maybe you have a suggestion for me? Get in contact with me!
+- 🥔 Fun fact: I love potato chips. Want some potato chip flavor suggestions, or maybe you have a suggestion for me? Get in contact with me!
 
