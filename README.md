@@ -1,6 +1,6 @@
 <div align="center"><img src="https://i.imgur.com/ov6HlVc.png" alt="The Potato Dev's GitHub" align="center"></div>
 
-### Hi there, I'm Albert! Welcome to my GitHub. 👋
+### Hello there. I'm Albert, aka the #potatoDev! Welcome to my GitHub. 👋
 
 <!--
 **thePotatoDev-git/thePotatoDev-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
