@@ -12,5 +12,5 @@ Here are some ideas to get you started: -->
 - 👓 My current goal is to become a fullstack web developer. I'm open to work!
 - 🤔 Check out my portfolio at ([thePotatoDev.netlify.app](https://thepotatodev.netlify.app/))
 - 📫 How to reach me: albertus.chua@gmail.com
-- 🥔 Fun fact: I love potato chips. Want some potato chip flavor suggestions, or maybe you have a suggestion for me? Get in contact with me!
+- 🥔 Fun fact: I love potato chips. Like, I always want chips. So please, give me chips.
 
