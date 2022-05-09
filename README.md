@@ -16,7 +16,7 @@ Here are some ideas to get you started: -->
 <h1 align="center">Projects</h1>
 <h3 align="center"><a href="https://thepotatodev.netlify.app/">Portolio Page</a></h3>
 <a target="_blank" href="https://thepotatodev.netlify.app/">
-            <div align="center"><img src="https://i.imgur.com/bhE1eVR.gif" width="50%" alt="Portfolio page"/></div>
+            <div align="center"><img src="https://i.imgur.com/nPG2eba.gif" width="50%" alt="Portfolio page"/></div>
 
 <h3 align="center"><a href="https://thepotatodev-git.github.io/NASA-Pic-of-the-Day/">NASA Picture of the Day</a></h3>
 <a target="_blank" href="https://thepotatodev-git.github.io/NASA-Pic-of-the-Day/">
