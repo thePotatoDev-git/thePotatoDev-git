@@ -7,9 +7,9 @@
 
 Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on a website for a client. ([Minds Inspired Counseling](https://github.com/thePotatoDev-git/freelance-client-sites/tree/master/Minds%20Inspired%20Counseling))
+- 🖥️ I’m currently working on a website for a client. ([Minds Inspired Counseling](https://github.com/thePotatoDev-git/freelance-client-sites/tree/master/Minds%20Inspired%20Counseling))
 - 👓 I’m currently learning JavaScript OOP and APIs.
-- 🤔 Check out my portfolio at ([thePotatoDev.netlify.app](https://thepotatodev.netlify.app/))
+- 📂 Check out my portfolio at ([thePotatoDev.netlify.app](https://thepotatodev.netlify.app/))
 - 📫 How to reach me: albertus.chua@gmail.com
 - 🥔 Fun fact: I love potato chips. Like, I always want chips. Please give me chips.
 
