@@ -96,3 +96,4 @@ Here are some ideas to get you started: -->
 
 <h1 align="center">Codewars Rank</h1>
 <div align="center"><img src="https://www.codewars.com/users/thePotatoDev/badges/large"></div>
+<div align="center">https://www.codewars.com/users/thePotatoDev</div>
