@@ -11,7 +11,7 @@ Here are some ideas to get you started: -->
 - 👓 I’m currently learning backend development.
 - 📂 Check out my portfolio at ([thePotatoDev.netlify.app](https://thepotatodev.netlify.app/))
 - 📫 How to reach me: albertus.chua@gmail.com
-- 🥔 Fun fact: I love potato chips. Like, I always want chips. Please give me chips.
+- 🥔 Fun fact: I love potato chips. Send me potato chip suggestions, thank you.
 
 <h1 align="center">Projects</h1>
 <table bordercolor="#66b2b2">
