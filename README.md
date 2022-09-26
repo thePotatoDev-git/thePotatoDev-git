@@ -7,7 +7,7 @@
 
 Here are some ideas to get you started: -->
 
-- 🖥️ I just finished a website for a client. Check it out! ([Minds Inspired Counseling](https://github.com/thePotatoDev-git/freelance-client-sites))
+- 🖥️ I'm currently working on a home sleep study tracker. ([Repo](https://github.com/thePotatoDev-git/sleep-study-tracker))
 - 👓 I’m currently learning backend development.
 - 📂 Check out my portfolio at ([thePotatoDev.netlify.app](https://thepotatodev.netlify.app/))
 - 📫 How to reach me: albert.thepotatodev@gmail.com
