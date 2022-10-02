@@ -61,22 +61,43 @@ Here are some ideas to get you started: -->
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Animal Crossing Villager Hunting Simulator</h3>
+      <h3 align="center">What's for Dinner at Summit?</h3>
       <br />
-        <a target="_blank" href="https://thepotatodev-git.github.io/ACNH-Villager-Hunting-Simulator/">
-          <img src="images/acgengif.gif" width="100%" alt="AC Villager hunting simulator"/>
+        <a target="_blank" href="https://dinneratsummit.netlify.app/">
+          <img src="images/dinner.gif" width="100%" alt="Dinner Picker gif"/>
         </a>
       <br />
         <p align="center">
-  <a href="https://github.com/thePotatoDev-git/ACNH-Villager-Hunting-Simulator" target="_blank">
+  <a href="https://github.com/thePotatoDev-git/whats-for-dinner-at-summit" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://thepotatodev-git.github.io/ACNH-Villager-Hunting-Simulator/" target="_blank">
+  <a href="https://dinneratsummit.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML, CSS, JavaScript</strong> - Simulate looking for your favorite Animal Crossing villager with this simulator. Just press the "Find Villager" button to look for your villager!</p>
+        <p><strong>HTML, CSS, JavaScript</strong> - Having trouble deciding what to have for dinner tonight? Choose between two eateries, and narrow it down to a single winner!</p>
     </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Yakuza Game Crafting App</h3>
+        <br />
+        <a target="_blank" href="https://yakuza-crafting-app.herokuapp.com/">
+          <img src="images/yakuza.gif" width="100%" alt="Yakuza Crafting app gif"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/thePotatoDev-git/yakuza-crafting-app-MVC" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://yakuza-crafting-app.herokuapp.com/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML, CSS, JavaScript, Node.js, Express, MongoDB</strong> - Made for the Yakuza: Like a Dragon videogame, keep track of crafting items you want to make and the materials that are needed.</p>
+    </td>
+  </tr>
+  
+  <tr>
     <td width="50%" valign="top">
       <h3 align="center">Excuse and Distraction Generator</h3>
         <br />
@@ -94,6 +115,24 @@ Here are some ideas to get you started: -->
   </a>
       </p>
         <p><strong>HTML, CSS, JavaScript, APIs</strong> - Have a social event you don't wanna go to? Generate an excuse to not go and quickly change the subject with a useless fact!</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Home Sleep Study Tracker</h3>
+        <br />
+        <a target="_blank" href="https://hst-tracker.herokuapp.com/">
+          <img src="images/hst.gif" width="100%" alt="HST tracker gif"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/thePotatoDev-git/sleep-study-tracker" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://hst-tracker.herokuapp.com/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML, CSS, JavaScript, Node.js, Express, MongoDB</strong> - A Sleep Study Tracker created for the Office of Samuel H.S. The. Keep track of patient sleep studies coming in, and assign studies to sleep techs.</p>
     </td>
   </tr>
 </table>
