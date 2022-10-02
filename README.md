@@ -120,7 +120,7 @@ Here are some ideas to get you started: -->
       <h3 align="center">Home Sleep Study Tracker</h3>
         <br />
         <a target="_blank" href="https://hst-tracker.herokuapp.com/">
-          <img src="images/hst.gif" width="100%" alt="HST tracker gif"/>
+          <img src="images/hsttracker.gif" width="100%" alt="HST tracker gif"/>
         </a>
         <br />
         <p align="center">
