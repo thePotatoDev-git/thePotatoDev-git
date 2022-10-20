@@ -85,7 +85,7 @@ Here are some ideas to get you started: -->
       <h3 align="center">What's for Dinner at Summit?</h3>
       <br />
         <a target="_blank" href="https://dinneratsummit.netlify.app/">
-          <img src="images/dinner.gif" width="100%" alt="Dinner Picker gif"/>
+          <img src="images/dinnerapp.gif" width="100%" alt="Dinner Picker gif"/>
         </a>
       <br />
         <p align="center">
