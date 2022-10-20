@@ -64,22 +64,22 @@ Here are some ideas to get you started: -->
   
   <tr>
   <td width="50%" valign="top">
-      <h3 align="center">Yakuza Game Crafting App</h3>
+      <h3 align="center">Daily Diary</h3>
         <br />
-        <a target="_blank" href="https://yakuza-crafting-app.herokuapp.com/">
-          <img src="images/yakuza.gif" width="100%" alt="Yakuza Crafting app gif"/>
+        <a target="_blank" href="https://dailydiary-100devs.herokuapp.com/">
+          <img src="images/dailydiary.gif" width="100%" alt="Daily Diary app gif"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/thePotatoDev-git/yakuza-crafting-app-MVC" target="_blank">
+  <a href="https://github.com/thePotatoDev-git/Daily_Diary" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://yakuza-crafting-app.herokuapp.com/" target="_blank">
+  <a href="https://dailydiary-100devs.herokuapp.com/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML, CSS, JavaScript, Node.js, Express, MongoDB</strong> - Made for the Yakuza: Like a Dragon videogame, keep track of crafting items you want to make and the materials that are needed.</p>
+        <p><strong>HTML, CSS, JavaScript, Node.js, Express, MongoDB</strong> - A fullstack diary app. Create an account and enter your own private journal entries.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">What's for Dinner at Summit?</h3>
