@@ -43,27 +43,6 @@ Here are some ideas to get you started: -->
         <p><strong>HTML, CSS, JavaScript, Node.js, Express, MongoDB</strong> - A Sleep Study Tracker created for the Office of Samuel H.S. The. Keep track of patient sleep studies coming in, and assign studies to sleep techs.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Portfolio Page</h3>
-        <br />
-        <a target="_blank" href="https://thepotatodev.netlify.app/">
-            <img src="images/portfoliogif.gif" width="100%" alt="Portfolio page"/>
-        </a>
-        <br />
-        <p align="center">
-   <a href="https://github.com/thePotatoDev-git/potatoDev-portfolio" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>       
-  <a href="https://thepotatodev.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-        <p><strong>HTML, CSS, JavaScript</strong> - My portfolio showcasing some of the work I've done, along with ways to get in touch with me.</p>
-    </td>
-    
-  </tr>
-  
-  <tr>
-  <td width="50%" valign="top">
       <h3 align="center">Daily Diary</h3>
         <br />
         <a target="_blank" href="https://dailydiary-100devs.herokuapp.com/">
@@ -80,6 +59,27 @@ Here are some ideas to get you started: -->
   </a>
       </p>
         <p><strong>HTML, CSS, JavaScript, Node.js, Express, MongoDB</strong> - A fullstack diary app. Create an account and enter your own private journal entries.</p>
+    </td>
+    
+  </tr>
+  
+  <tr>
+  <td width="50%" valign="top">
+      <h3 align="center">Portfolio Page</h3>
+        <br />
+        <a target="_blank" href="https://thepotatodev.netlify.app/">
+            <img src="images/portfoliogif.gif" width="100%" alt="Portfolio page"/>
+        </a>
+        <br />
+        <p align="center">
+   <a href="https://github.com/thePotatoDev-git/potatoDev-portfolio" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>       
+  <a href="https://thepotatodev.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML, CSS, JavaScript</strong> - My portfolio showcasing some of the work I've done, along with ways to get in touch with me.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">What's for Dinner at Summit?</h3>
