@@ -58,7 +58,7 @@ Here are some ideas to get you started: -->
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML, CSS, JavaScript, Node.js, Express, MongoDB</strong> - A fullstack diary app. Create an account and enter your own private journal entries.</p>
+        <p><strong>HTML, CSS, JavaScript, Node.js, Express, MongoDB</strong> - A fullstack diary app created in collaboration with a team. Create an account and enter your own private journal entries.</p>
     </td>
     
   </tr>
