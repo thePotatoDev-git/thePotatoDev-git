@@ -40,7 +40,7 @@ Here are some ideas to get you started: -->
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML, CSS, JavaScript, Node.js, Express, MongoDB</strong> - A Sleep Study Tracker created for a sleep doctor's private practice. Keep track of patient sleep studies coming in, and assign studies to sleep techs.</p>
+        <p><strong>HTML, CSS, Tailwind, JavaScript, Node.js, Express, MongoDB</strong> - A Sleep Study Tracker created for a sleep doctor's private practice. Keep track of patient sleep studies coming in, and assign studies to sleep techs.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Daily Diary</h3>
