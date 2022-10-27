@@ -43,65 +43,28 @@ Here are some ideas to get you started: -->
         <p><strong>HTML, CSS, Tailwind, JavaScript, Node.js, Express, MongoDB</strong> - A Sleep Study Tracker created for a sleep doctor's private practice. Keep track of patient sleep studies coming in, and assign studies to sleep techs.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Daily Diary</h3>
+      <h3 align="center">Yakuza Gear Crafting App</h3>
         <br />
-        <a target="_blank" href="https://dailydiary-100devs.herokuapp.com/">
-          <img src="images/dailydiary.gif" width="100%" alt="Daily Diary app gif"/>
+        <a target="_blank" href="https://yakuza-crafting-app.herokuapp.com/">
+          <img src="images/yakuza.gif" width="100%" alt="Yakuza Gear Crafting app gif"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/thePotatoDev-git/Daily_Diary" target="_blank">
+  <a href="https://github.com/thePotatoDev-git/yakuza-crafting-app-MVC" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://dailydiary-100devs.herokuapp.com/" target="_blank">
+  <a href="https://yakuza-crafting-app.herokuapp.com/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML, CSS, JavaScript, Node.js, Express, MongoDB</strong> - A fullstack diary app created in collaboration with a team. Create an account and enter your own private journal entries.</p>
+        <p><strong>HTML, CSS, JavaScript, Node.js, Express, MongoDB</strong> - Made for the Yakuza: Like a Dragon videogame, keep track of crafting items you want to make and the materials that are needed.</p>
     </td>
     
   </tr>
   
   <tr>
   <td width="50%" valign="top">
-      <h3 align="center">Portfolio Page</h3>
-        <br />
-        <a target="_blank" href="https://thepotatodev.netlify.app/">
-            <img src="images/portfoliogif.gif" width="100%" alt="Portfolio page"/>
-        </a>
-        <br />
-        <p align="center">
-   <a href="https://github.com/thePotatoDev-git/potatoDev-portfolio" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>       
-  <a href="https://thepotatodev.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-        <p><strong>HTML, CSS, JavaScript</strong> - My portfolio showcasing some of the work I've done, along with ways to get in touch with me.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">What's for Dinner at Summit?</h3>
-      <br />
-        <a target="_blank" href="https://dinneratsummit.netlify.app/">
-          <img src="images/dinnerapp.gif" width="100%" alt="Dinner Picker gif"/>
-        </a>
-      <br />
-        <p align="center">
-  <a href="https://github.com/thePotatoDev-git/whats-for-dinner-at-summit" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="https://dinneratsummit.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-        <p><strong>HTML, CSS, JavaScript</strong> - Having trouble deciding what to have for dinner tonight? Choose between two eateries, and narrow it down to a single winner!</p>
-    </td>
-  </tr>
-  
-  <tr>
-    <td width="50%" valign="top">
       <h3 align="center">Excuse and Distraction Generator</h3>
         <br />
         <a target="_blank" href="https://thepotatodev-git.github.io/Excuse-and-Distraction-Generator/">
@@ -120,22 +83,21 @@ Here are some ideas to get you started: -->
         <p><strong>HTML, CSS, JavaScript, APIs</strong> - Have a social event you don't wanna go to? Generate an excuse to not go and quickly change the subject with a useless fact!</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">NASA Picture of the Day</h3>
-        <br />
-      <a target="_blank" href="https://thepotatodev-git.github.io/NASA-Pic-of-the-Day/">
-            <img src="images/nasagif.gif" width="100%"  alt="NASA photo app"/>
+      <h3 align="center">What's for Dinner at Summit?</h3>
+      <br />
+        <a target="_blank" href="https://dinneratsummit.netlify.app/">
+          <img src="images/dinnerapp.gif" width="100%" alt="Dinner Picker gif"/>
         </a>
-        <br />
+      <br />
         <p align="center">
-          
-  <a href="https://github.com/thePotatoDev-git/NASA-Pic-of-the-Day" target="_blank">
+  <a href="https://github.com/thePotatoDev-git/whats-for-dinner-at-summit" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://thepotatodev-git.github.io/NASA-Pic-of-the-Day/" target="_blank">
+  <a href="https://dinneratsummit.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML, CSS, JavaScript, APIs</strong> - An API project that shows NASA's picture of the day. Simply enter a date, and it will populate the page with a picture and description.</p>
+        <p><strong>HTML, CSS, JavaScript</strong> - Having trouble deciding what to have for dinner tonight? Choose between two eateries, and narrow it down to a single winner!</p>
     </td>
   </tr>
 </table>
