@@ -45,7 +45,7 @@ Here are some ideas to get you started: -->
     <td width="50%" valign="top">
       <h3 align="center">Ordinary Gamers' Crafting App</h3>
         <br />
-        <a target="_blank" href="https://yakuza-crafting-app.herokuapp.com/">
+        <a target="_blank" href="https://og-crafting-app.herokuapp.com/">
           <img src="images/yakuza.gif" width="100%" alt="Yakuza Gear Crafting app gif"/>
         </a>
         <br />
@@ -58,7 +58,7 @@ Here are some ideas to get you started: -->
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML, CSS, JavaScript, Node.js, Express, MongoDB</strong> - Made for the Yakuza: Like a Dragon videogame, keep track of crafting items you want to make and the materials that are needed.</p>
+        <p><strong>HTML, CSS, JavaScript, Node.js, Express, MongoDB</strong> - Made for the Ordinary Gamers club, keep track of crafting items you want to make in a videogame along with the materials that are needed.</p>
     </td>
     
   </tr>
