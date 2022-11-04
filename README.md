@@ -43,7 +43,7 @@ Here are some ideas to get you started: -->
         <p><strong>HTML, CSS, Tailwind, JavaScript, Node.js, Express, MongoDB</strong> - A Sleep Study Tracker created for a sleep doctor's private practice. Keep track of patient sleep studies coming in, and assign studies to sleep techs.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Yakuza Gear Crafting App</h3>
+      <h3 align="center">Ordinary Gamers' Crafting App</h3>
         <br />
         <a target="_blank" href="https://yakuza-crafting-app.herokuapp.com/">
           <img src="images/yakuza.gif" width="100%" alt="Yakuza Gear Crafting app gif"/>
