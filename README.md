@@ -65,22 +65,22 @@ Here are some ideas to get you started: -->
   
   <tr>
   <td width="50%" valign="top">
-      <h3 align="center">Excuse and Distraction Generator</h3>
+      <h3 align="center">Bergen County Astronomers POTD App</h3>
         <br />
-        <a target="_blank" href="https://thepotatodev-git.github.io/Excuse-and-Distraction-Generator/">
-          <img src="images/excusegif.gif" width="100%" alt="Excuse generator app"/>
+        <a target="_blank" href="https://thepotatodev-git.github.io/Bergen-County-Astronomers-POTD/">
+          <img src="images/nasagif.gif" width="100%" alt="Excuse generator app"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/thePotatoDev-git/Excuse-and-Distraction-Generator" target="_blank">
+  <a href="https://github.com/thePotatoDev-git/Bergen-County-Astronomers-POTD" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://thepotatodev-git.github.io/Excuse-and-Distraction-Generator/" target="_blank">
+  <a href="https://thepotatodev-git.github.io/Bergen-County-Astronomers-POTD/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML, CSS, JavaScript, APIs</strong> - Have a social event you don't wanna go to? Generate an excuse to not go and quickly change the subject with a useless fact!</p>
+        <p><strong>HTML, CSS, JavaScript, APIs</strong> - An app for the Bergen County Astronomers Club that shows the picture of the day using NASA's API. Simply enter a date, and it will populate the page with a picture and description.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">What's for Dinner at Summit?</h3>
