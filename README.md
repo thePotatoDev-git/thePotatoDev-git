@@ -21,6 +21,7 @@ Here are some ideas to get you started: -->
 <div align="center">https://www.codewars.com/users/thePotatoDev</div>
 
 <h1 align="center">Projects</h1>
+<p align="center"><i>*Please note after Heroku's new paid tiers, some of my projects are currently unavailable. I am working on transferring them to a new host. Thank you for your understanding!</i></p>
 <table bordercolor="#66b2b2">
   
   <tr>
