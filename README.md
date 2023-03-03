@@ -81,7 +81,7 @@ Here are some ideas to get you started: -->
         <p><strong>HTML, CSS, JavaScript, APIs</strong> - An app for the Bergen County Astronomers Club that shows the picture of the day using NASA's API. Simply enter a date, and it will populate the page with a picture and description.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">What's for Dinner at Summit?</h3>
+      <h3 align="center">What's for Dinner?</h3>
       <br />
         <a target="_blank" href="https://dinneratsummit.netlify.app/">
           <img src="images/dinnerapp.gif" width="100%" alt="Dinner Picker gif"/>
