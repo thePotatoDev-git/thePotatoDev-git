@@ -9,7 +9,7 @@ Here are some ideas to get you started: -->
 
 - 🖥️ I just finished version 1.0 of my home sleep study tracker. ([Repo](https://github.com/thePotatoDev-git/sleep-study-tracker))
 - 👓 I’m currently learning React. :atom:
-- 📂 Check out my portfolio at ([thePotatoDev.netlify.app](https://thepotatodev.netlify.app/)) or scroll down further for a showcase of some of the project I've created.
+- 📂 Check out my portfolio at ([thePotatoDev.com](https://thepotatodev.com/)) or scroll down further for a showcase of some of the project I've created.
 - 📫 How to reach me: albert.thepotatodev@gmail.com
 - 🥔 Fun fact: I love potato chips. Send me potato chip suggestions, thank you.
 
