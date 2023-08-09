@@ -25,7 +25,7 @@ Here are some ideas to get you started: -->
   <td width="50%" valign="top">
       <h3 align="center">Summit Medical Sleep Study Tracker</h3>
         <br />
-        <a target="_blank" href="https://hst-tracker.up.railway.app/">
+        <a target="_blank" href="https://hst-tracker.cyclic.app/">
           <img src="images/hsttracker.gif" width="100%" alt="HST tracker gif"/>
         </a>
         <br />
