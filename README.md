@@ -7,8 +7,8 @@
 
 Here are some ideas to get you started: -->
 
-- 🖥️ I just finished version 1.0 of my home sleep study tracker. ([Repo](https://github.com/thePotatoDev-git/sleep-study-tracker))
 - 👓 I’m currently working on a full stack React app to help you choose what to eat. ([Repo](https://github.com/thePotatoDev-git/Food-Off))
+- 🖥️ My latest completed project is a sleep study tracker for a physician's office. ([Repo](https://github.com/thePotatoDev-git/sleep-study-tracker))
 - 📂 Check out my portfolio at ([thePotatoDev.com](https://thepotatodev.com/)) or scroll down further for a showcase of some of the project I've created.
 - 📫 How to reach me: albert.thepotatodev@gmail.com
 - 🥔 Fun fact: I love potato chips. Send me potato chip suggestions, thank you.
