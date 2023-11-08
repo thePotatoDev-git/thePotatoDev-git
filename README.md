@@ -1,4 +1,4 @@
-<div align="center"><img src="https://i.imgur.com/ppO4FP6.png" alt="The Potato Dev's GitHub" align="center"></div>
+
 
 ### Hello there. I'm Albert, aka the #potatoDev! Welcome to my GitHub. 👋
 
