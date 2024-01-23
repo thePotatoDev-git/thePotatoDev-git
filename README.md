@@ -41,11 +41,37 @@ Here are some ideas to get you started: -->
         <p><strong>HTML, CSS, Tailwind, JavaScript, Node.js, Express, MongoDB</strong> - A sleep study tracker created for a sleep doctor's private practice. Keep track of patient sleep studies coming in, and assign studies to sleep techs.</p>
     </td>
     <td width="50%" valign="top">
+      <h3 align="center">Food/Off</h3>
+      <br />
+      <div align="center"
+        <a target="_blank" href="https://food-off.onrender.com/">
+          <img src="images/food-off.gif" width="33%" alt="Food/Off gif"/>
+        </a>
+      </div>
+      <br />
+        <p align="center">
+  <a href="https://github.com/thePotatoDev-git/Food-Off" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://food-off.onrender.com/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML, CSS, JavaScript</strong> - Having trouble deciding what to have for dinner tonight? Choose between two eateries, and narrow it down to a single winner!</p>
+    </td>
+    
+    
+  </tr>
+  
+  <tr>
+    <td width="50%" valign="top">
       <h3 align="center">Ordinary Gamers' Crafting App</h3>
         <br />
+      <div align="center"
         <a target="_blank" href="https://og-crafting.cyclic.app/">
-          <img src="images/yakuza.gif" width="100%" alt="Yakuza Gear Crafting app gif"/>
+          <img src="images/yakuza.gif" width="55%" alt="Yakuza Gear Crafting app gif"/>
         </a>
+      </div>
         <br />
         <p align="center">
           
@@ -59,14 +85,11 @@ Here are some ideas to get you started: -->
         <p><strong>HTML, CSS, JavaScript, Node.js, Express, MongoDB</strong> - Made for the Ordinary Gamers club, keep track of crafting items you want to make in a videogame along with the materials that are needed.</p>
     </td>
     
-  </tr>
-  
-  <tr>
   <td width="50%" valign="top">
       <h3 align="center">Bergen County Astronomers POTD App</h3>
         <br />
         <a target="_blank" href="https://thepotatodev-git.github.io/Bergen-County-Astronomers-POTD/">
-          <img src="images/nasagif.gif" width="100%" alt="Excuse generator app"/>
+          <img src="images/nasagif.gif" width="100%" alt="NASA app"/>
         </a>
         <br />
         <p align="center">
@@ -80,23 +103,7 @@ Here are some ideas to get you started: -->
       </p>
         <p><strong>HTML, CSS, JavaScript, APIs</strong> - An app for the Bergen County Astronomers Club that shows the picture of the day using NASA's API. Simply enter a date, and it will populate the page with a picture and description.</p>
     </td>
-    <td width="50%" valign="top">
-      <h3 align="center">What's for Dinner?</h3>
-      <br />
-        <a target="_blank" href="https://dinneratsummit.netlify.app/">
-          <img src="images/dinnerapp.gif" width="100%" alt="Dinner Picker gif"/>
-        </a>
-      <br />
-        <p align="center">
-  <a href="https://github.com/thePotatoDev-git/whats-for-dinner-at-summit" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="https://dinneratsummit.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-        <p><strong>HTML, CSS, JavaScript</strong> - Having trouble deciding what to have for dinner tonight? Choose between two eateries, and narrow it down to a single winner!</p>
-    </td>
+    
   </tr>
 </table>
             
