@@ -25,7 +25,7 @@ Here are some ideas to get you started: -->
   <td width="50%" valign="top">
       <h3 align="center">Summit Medical Sleep Study Tracker</h3>
         <br />
-        <a target="_blank" href="https://hst-tracker.cyclic.app/">
+        <a target="_blank" href="https://sleep-study-tracker.onrender.com">
           <img src="images/hsttracker.gif" width="100%" alt="HST tracker gif"/>
         </a>
         <br />
@@ -34,7 +34,7 @@ Here are some ideas to get you started: -->
   <a href="https://github.com/thePotatoDev-git/sleep-study-tracker" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://hst-tracker.cyclic.app/" target="_blank">
+  <a href="https://sleep-study-tracker.onrender.com" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
@@ -68,7 +68,7 @@ Here are some ideas to get you started: -->
       <h3 align="center">Ordinary Gamers' Crafting App</h3>
         <br />
       <div align="center"
-        <a target="_blank" href="https://og-crafting.cyclic.app/">
+        <a target="_blank" href="https://og-crafting-app.onrender.com/">
           <img src="images/yakuza.gif" width="55%" alt="Yakuza Gear Crafting app gif"/>
         </a>
       </div>
@@ -78,7 +78,7 @@ Here are some ideas to get you started: -->
   <a href="https://github.com/thePotatoDev-git/yakuza-crafting-app-MVC" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://og-crafting.cyclic.app/" target="_blank">
+  <a href="https://og-crafting-app.onrender.com/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
