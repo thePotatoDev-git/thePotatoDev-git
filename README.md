@@ -65,7 +65,7 @@ Here are some ideas to get you started: -->
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Ordinary Gamers' Crafting App</h3>
+      <h3 align="center">Ordinary Gamers Crafting App</h3>
         <br />
       <div align="center"
         <a target="_blank" href="https://og-crafting-app.onrender.com/">
